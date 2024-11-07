@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co.com/yszxPHK/networking-media-sharing-icons-graphic-concept.jpg",
+    "title": "Exploring the Digital World",
+    "author": "John Doe",
+    "author-img": "https://example.com/johndoe.jpg",
+    "post_date": "2024-11-07",
+    "reading_time": 5,
+    "hashtags": ["#technology", "#digital", "#innovation"]
+  },
+  {
+    "id": 2,
+    "cover": "https://example.com/cover2.jpg",
+    "title": "Mastering JavaScript",
+    "author": "Jane Smith",
+    "author-img": "https://example.com/janesmith.jpg",
+    "post_date": "2024-10-25",
+    "reading_time": 10,
+    "hashtags": ["#JavaScript", "#webdev", "#programming"]
+  },
+  {
+    "id": 3,
+    "cover": "https://example.com/cover3.jpg",
+    "title": "The Future of AI",
+    "author": "Mark Johnson",
+    "author-img": "https://example.com/markjohnson.jpg",
+    "post_date": "2024-11-02",
+    "reading_time": 7,
+    "hashtags": ["#AI", "#futuretech", "#machinelearning"]
+  },
+  {
+    "id": 4,
+    "cover": "https://example.com/cover4.jpg",
+    "title": "Building a React App",
+    "author": "Emily Brown",
+    "author-img": "https://example.com/emilybrown.jpg",
+    "post_date": "2024-09-15",
+    "reading_time": 8,
+    "hashtags": ["#React", "#webdevelopment", "#frontend"]
+  },
+  {
+    "id": 5,
+    "cover": "https://example.com/cover5.jpg",
+    "title": "Cybersecurity Essentials",
+    "author": "Michael White",
+    "author-img": "https://example.com/michaelwhite.jpg",
+    "post_date": "2024-10-10",
+    "reading_time": 6,
+    "hashtags": ["#cybersecurity", "#tech", "#safety"]
+  }
+]
