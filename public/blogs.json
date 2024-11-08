@@ -1,40 +1,40 @@
 [
   {
     "id": 1,
-    "cover": "https://i.ibb.co.com/yszxPHK/networking-media-sharing-icons-graphic-concept.jpg",
+    "cover": "https://i.ibb.co.com/Lz0PDZd/1.jpg",
     "title": "Exploring the Digital World",
     "author": "John Doe",
-    "author-img": "https://example.com/johndoe.jpg",
+    "author_img": "https://i.ibb.co.com/2Fz4w6X/boy1.png",
     "post_date": "2024-11-07",
     "reading_time": 5,
     "hashtags": ["#technology", "#digital", "#innovation"]
   },
   {
     "id": 2,
-    "cover": "https://example.com/cover2.jpg",
+    "cover": "https://i.ibb.co.com/3TG9JfR/2.png",
     "title": "Mastering JavaScript",
     "author": "Jane Smith",
-    "author-img": "https://example.com/janesmith.jpg",
+    "author_img": "https://i.ibb.co.com/0ct4JZt/boy2.jpg",
     "post_date": "2024-10-25",
     "reading_time": 10,
     "hashtags": ["#JavaScript", "#webdev", "#programming"]
   },
   {
     "id": 3,
-    "cover": "https://example.com/cover3.jpg",
+    "cover": "https://i.ibb.co.com/C2pgrRH/3.png",
     "title": "The Future of AI",
     "author": "Mark Johnson",
-    "author-img": "https://example.com/markjohnson.jpg",
+    "author_img": "https://i.ibb.co.com/vdGJSf5/girl1.jpg",
     "post_date": "2024-11-02",
     "reading_time": 7,
     "hashtags": ["#AI", "#futuretech", "#machinelearning"]
   },
   {
     "id": 4,
-    "cover": "https://example.com/cover4.jpg",
+    "cover": "https://i.ibb.co.com/k0x3D7P/4.jpg",
     "title": "Building a React App",
     "author": "Emily Brown",
-    "author-img": "https://example.com/emilybrown.jpg",
+    "author_img": "https://i.ibb.co.com/7WC510R/girl2.jpg",
     "post_date": "2024-09-15",
     "reading_time": 8,
     "hashtags": ["#React", "#webdevelopment", "#frontend"]
@@ -44,7 +44,7 @@
     "cover": "https://example.com/cover5.jpg",
     "title": "Cybersecurity Essentials",
     "author": "Michael White",
-    "author-img": "https://example.com/michaelwhite.jpg",
+    "author_img": "https://example.com/michaelwhite.jpg",
     "post_date": "2024-10-10",
     "reading_time": 6,
     "hashtags": ["#cybersecurity", "#tech", "#safety"]
